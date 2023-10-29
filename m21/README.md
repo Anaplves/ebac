@@ -5,4 +5,4 @@
 ![Incidentes x Dia](img/media.png "Média")
 
 ## Desvio padrão - Incidentes por dia
-![Incidentes x Dia](img/incidents.png "Desvio padrão")
+![Incidentes x Dia](img/desvio.png "Desvio padrão")
